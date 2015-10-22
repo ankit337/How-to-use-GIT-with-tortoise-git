@@ -26,4 +26,4 @@ If your team working directly on master branch then follow below steps
     
     > While doing Stash Pop there may be conflict(:boom:) on some files which is committed by other users, that you need to resolve
   -	`Commit` (It will Open the git commit UI, Select only those files that you want to commit and then do commit)
-  -	`Push` (It will push your commit to the server)  (If you are getting  any error(:boom:) like “git did not exit cleanly…” then, in that case do `Fetch & Rebase` )
+  -	`Push` (It will push your commit to the server)  (If you are getting  any error(:boom:) like '*git did not exit cleanly…*' then, in that case do `Fetch & Rebase` )
