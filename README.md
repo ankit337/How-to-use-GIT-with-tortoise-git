@@ -3,7 +3,7 @@
 If your team working directly on master branch then follow below steps
 ---
 
-:sparkles: For Taking latest code from server:-
+:sparkles: For Taking latest code from server
 -	`GIT Sync` (It will open GIT sync UI)
  -	`Stash Save` (it will save your changes to some temp folder)
  - `Pull` (It will get latest code into your repo)
@@ -16,7 +16,9 @@ If your team working directly on master branch then follow below steps
 
 
 
-:sparkles: For Commit something:-
+
+
+:sparkles: For Commit something
  -	`GIT Sync` (It will open GIT sync UI)
   - `Stash Save` (it will save your changes to some temp folder)
   -	`Pull` (It will get latest code into your repo)
